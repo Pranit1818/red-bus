@@ -18,3 +18,5 @@ public class Sum {
         sc.close();
     }
 }
+
+///this is changes of feature 1 
